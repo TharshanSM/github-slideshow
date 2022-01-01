@@ -1,5 +1,6 @@
-My Text 1
-My Text 2
-My Text 3
-My Text 4
-My Text 5
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text : Something New
+Use the left arrow to go back!
